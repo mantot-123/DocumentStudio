@@ -1,0 +1,13 @@
+greenhunt's Document Studio
+
+Features:
+* Rich and plain text formatting support (RTF and TXT files)
+* Insert images, media and links
+* Find and Replace text
+* Save and open files
+* Text-to-speech (Experimental)
+* Extensions?
+
+Notes:
+* Menu bar should be included for users
+* Add tool strips

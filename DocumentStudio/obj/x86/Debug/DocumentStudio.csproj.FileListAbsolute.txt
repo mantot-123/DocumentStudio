@@ -1,0 +1,10 @@
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\bin\x86\Debug\DocumentStudio.exe.config
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\bin\x86\Debug\DocumentStudio.exe
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\bin\x86\Debug\DocumentStudio.pdb
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.Main.resources
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.Properties.Resources.resources
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.csproj.GenerateResource.cache
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.csproj.CoreCompileInputs.cache
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.exe
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.pdb
+C:\Users\Mr Medina\source\repos\DocumentStudio\DocumentStudio\obj\x86\Debug\DocumentStudio.csprojAssemblyReference.cache
