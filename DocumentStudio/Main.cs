@@ -30,7 +30,7 @@ namespace DocumentStudio
             undoMenuItem.Enabled = false;
             redoMenuItem.Enabled = false;
 
-            textBoxCharCount.Text = "Character count: " + "0";
+            textBoxCharCount.Text = "Character count: " + TextBox.Text.Length.ToString();
 
             // List all installed fonts
             InstalledFontCollection installedFonts = new InstalledFontCollection();
